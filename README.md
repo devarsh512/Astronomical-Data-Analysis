@@ -20,15 +20,15 @@ A 6.5-hour deep dive into Python-based data analysis, visualization, and image p
 
 | Visualization | Description |
 |----------------|-------------|
-| ![HR Diagram](images/hr_diagram.png) | Hertzsprung–Russell diagram |
-| ![Line Plot](images/lineplot_star.png) | Stellar data trends |
-| ![Andromeda Galaxy](images/M31_DSS2_BLUE_PIXELS.png) | DSS2 image (Blue pixels) |
-| ![Original Image](images/Original_Image.png) | Raw FITS image of Andromeda |
-| ![Filtered Image](images/Filtered_Image.png) | Log-normalized and filtered |
-| ![Error Image](images/Error_Image.png) | Pixel error distribution |
-| ![Spectral Visualization (nipy)](images/nipy_spectral.png) | Spectral colormap visualization |
-| ![Spectral Visualization (nippy)](images/nippy_spectral.png) | Alternate spectral mapping |
-| ![Spectral Visualization (Prizam)](images/Prizam_spectrl.png) | Prizam spectral pattern |
+| ![HR Diagram](hr_diagram.png) | Hertzsprung–Russell diagram |
+| ![Line Plot](lineplot_star.png) | Stellar data trends |
+| ![Andromeda Galaxy](M31_DSS2_BLUE_PIXELS.png) | DSS2 image (Blue pixels) |
+| ![Original Image](Original_Image.png) | Raw FITS image of Andromeda |
+| ![Filtered Image](Filtered_Image.png) | Log-normalized and filtered |
+| ![Error Image](Error_Image.png) | Pixel error distribution |
+| ![Spectral Visualization (nipy)](nipy_spectral.png) | Spectral colormap visualization |
+| ![Spectral Visualization (nippy)](nippyspectral.png) | Alternate spectral mapping |
+| ![Spectral Visualization (Prizam)](Prizam_spectrl.png) | Prizam spectral pattern |
 
 ---
 
