@@ -27,7 +27,7 @@ A 6.5-hour deep dive into Python-based data analysis, visualization, and image p
 | ![Filtered Image](Filtered_Image.png) | Log-normalized and filtered |
 | ![Error Image](Error_Image.png) | Pixel error distribution |
 | ![Spectral Visualization (nipy)](nipy_spectral.png) | Spectral colormap visualization |
-| ![Spectral Visualization (nippy)](nippyspectral.png) | Alternate spectral mapping |
+| ![Spectral Visualization (nippy)](nippy_spectral_1.png) | Alternate spectral mapping |
 | ![Spectral Visualization (Prizam)](Prizam_spectrl.png) | Prizam spectral pattern |
 
 ---
